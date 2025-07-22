@@ -49,6 +49,8 @@ I'm an **aspiring Front-End Developer** passionate about building clean, respons
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagu-soujanya)
 
+✉️ Email: [soujanya.jasmin@gmail.com](mailto:soujanya.jasmin@gmail.com)
+
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
