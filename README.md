@@ -1,4 +1,4 @@
-# Hi there, I'm Soujanya Jasmin! 👋
+# Hi there, I'm Jagu Soujanya! 👋
 
 I'm an **aspiring Front-End Developer** passionate about building clean, responsive web interfaces.
 
